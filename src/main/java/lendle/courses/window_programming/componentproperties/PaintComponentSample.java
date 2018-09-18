@@ -14,7 +14,7 @@ import javax.swing.WindowConstants;
 
 /**
  *
- * @author lendle
+ * @author lendle change
  */
 public class PaintComponentSample extends JPanel{
     //利用 paintComponent 讓 JPanel 畫出一個橢圓
